@@ -2,7 +2,8 @@
 
 ![ezgif com-crop (6)](https://user-images.githubusercontent.com/94214512/220246922-49560e29-2a01-48bd-9eac-64d6981e5a55.gif)
 
-This is a simple drawing board that I created with canvas
+This is a simple drawing board that I created with canvas <br>
+[Drawing board](https://fascinating-bonbon-fcee5b.netlify.app/)
 
 ### Goals of the project
 
